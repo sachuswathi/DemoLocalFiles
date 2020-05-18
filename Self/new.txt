@@ -1,0 +1,25 @@
+KT on 2wc outbound
+tosca
+oam portal
+automation count
+UAT testing
+productivily working
+leave management
+sireesha being a backup
+salesforce lookup projects
+FDIS Automation
+USAA
+JH
+GE-Belk-- Automation
+within the deadline
+team management activity
+
+
+?	Met 100% Defect confirmation & Containment with zero non-issue.
+being the POC for tosca
+created and automated the Oam portal
+
+Attended the training sessions of Hammer call master and adapted to the tool to create and execute IVR test scripts.
+Cross trained in Service360 and started my hands on in it.
+Contributed a innovation idea in FDC Automakathon.
+Created 160 automation Test Cases for 2WC application using Data driven model.
